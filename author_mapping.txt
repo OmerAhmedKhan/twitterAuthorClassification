@@ -1,0 +1,29 @@
+'Twitter for iPhone': 0
+'Twitter Media Studio': 1
+'Twitter Web Client': 2
+'Thunderclap': 3
+'Twitter Web App': 4
+'Sprout Social': 5
+'Twitter for iPad': 6
+'TweetDeck': 7
+'IFTTT': 8
+'Twitter for Mac': 9
+'Hootsuite': 10
+'Instagram': 11
+'Twitter Ads': 12
+'Twitter for Android': 13
+'Revue': 14
+'Buffer': 15
+'Twitter for Websites': 16
+'Twitter Ads Composer': 17
+'swonkie': 18
+'Google': 19
+'Crowdfire Inc.': 20
+"Players' Post": 21
+'Facebook': 22
+'10 - Sport Through Your Lens': 23
+'Viva Ronaldo': 24
+'MobioINsider.com': 25
+'WhoSay': 26
+'iOS': 27
+'Twitter for BlackBerry®': 28
